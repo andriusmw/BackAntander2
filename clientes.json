@@ -1,0 +1,12 @@
+{
+  "cliente1": {
+    "nombre": "Juan",
+    "tipoCliente": "Físico",
+    "numeroDocumento": "12345678"
+  },
+  "cliente2": {
+    "nombre": "María",
+    "tipoCliente": "Jurídico",
+    "numeroDocumento": "98765432"
+  }
+}
